@@ -35,7 +35,7 @@ The following components are included:
     ### Projects
 
     Each project featured in the portfolio includes:
-
+np
     - An image of the deployed application (either a GIF or a screenshot)
     - The title of the project
     - A link to the deployed application
